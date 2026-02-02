@@ -39,6 +39,19 @@
     </tr>
   </tbody>
 </table>
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmd-dagamseh&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-dagamseh&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-dagamseh&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 <h3>My latest posts</h3>
 <ul>
