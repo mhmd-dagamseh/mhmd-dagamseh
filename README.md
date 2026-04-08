@@ -16,13 +16,6 @@ Specialized in **HTML, CSS, C++, Arduino** & leveling up my web & embedded syste
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmd-dagamseh&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-dagamseh&layout=compact&theme=radical" width="300"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-dagamseh&theme=radical&hide_border=true" width="300"/>
