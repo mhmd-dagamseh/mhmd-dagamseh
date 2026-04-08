@@ -1,36 +1,28 @@
-<h1 style="text-align:center; color:#FF4C4C;">💀 Hey, Welcome.</h1>
+# 💀 Hey, Welcome.
 
-<p style="text-align:center; font-size:18px;">
-I'm <b>mhmd aldagamseh</b>, a 1st-year Software Engineering student at <b>Amman Arab University</b>.<br>
-Specialized in <b>HTML, CSS, C++, Arduino</b> & constantly leveling up my web & embedded systems skills.
-</p>
+I'm **mhmd aldagamseh**, a 1st-year Software Engineering student at **Amman Arab University**.  
+Specialized in **HTML, CSS, C++, Arduino** & leveling up my web & embedded systems skills.
 
-<h3 style="color:#FF4C4C;">🛠 Things I code with</h3>
-<p style="text-align:center;">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-</p>
+---
 
-<h3 style="color:#FF4C4C; text-align:center;">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmd-dagamseh&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</p>
+## 🛠 Things I code with
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
+![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-dagamseh&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-dagamseh&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+## 📊 GitHub Stats
+![mhmd-dagamseh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmd-dagamseh&show_icons=true&theme=radical)
 
-<h3 style="color:#FF4C4C;">🔗 Where to find me</h3>
-<p style="text-align:center;">
-  <a href="https://github.com/mhmd-dagamseh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/mhmd-al-dagamseh-9bb639382" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.instagram.com/_r6fy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-dagamseh&layout=compact&theme=radical)
 
-<p align="center" style="font-style:italic; color:#AAA;">Clean, dark, and ready to haunt GitHub 👻</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmd-dagamseh&theme=radical&hide_border=true)
+
+---
+
+## 🔗 Where to find me
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmd-dagamseh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmd-al-dagamseh-9bb639382)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_r6fy)
