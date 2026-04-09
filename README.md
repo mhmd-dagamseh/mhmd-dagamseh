@@ -36,6 +36,3 @@ Specialized in **HTML, CSS, C++, Arduino** & leveling up my web & embedded syste
   </a>
 </p>
 
----
-
-*Clean, dark, and ready to haunt GitHub 👻*
